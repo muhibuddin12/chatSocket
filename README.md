@@ -1,2 +1,2 @@
 # chatSocket
-Pembuat aplikasi chat dengan socket.io
+Membuat aplikasi chat dengan socket.io
